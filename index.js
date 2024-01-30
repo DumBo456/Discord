@@ -31,7 +31,7 @@ client.on('ready', async () => {
     .setDetails(`Test[${formatTime()}]`)
     .setStartTimestamp(Date.now())
  .setAssetsLargeImage('https://cdn.discordapp.com/attachments/1142012457783656478/1142040285526892594/8f1e237076159c35cb5124b744b451cf.gif?ex=65c5fc66&is=65b38766&hm=e4a2c4a6ea51384ea76853752c2e90f62751bf8eded42cb71c324e05c0ddead4&') //You can put links in tenor or discord and etc.
-    .setAssetsLargeText('Test') //Text when you hover the Large image
+    .setAssetsLargeText('hh') //Text when you hover the Large image
     .setAssetsSmallImage('https://cdn.discordapp.com/attachments/1142012457783656478/1142040284721590313/0e328ebe0cf12640b9b2e9db7b3e7dac.gif?ex=65c5fc65&is=65b38765&hm=d8c6996ad1487be141fc1a701d1d4289d9c53bac7c91b17767dcca8e1b2c675e&' ) //You can put links in tenor or discord and etc.
     .setAssetsSmallText('Test') //Text when you hover the Small image
     .addButton('Watch', 'https://youtube.com/@DumBo22?si=qUrUhbdjzXRpe5aj')
