@@ -146,4 +146,4 @@ bot.on('ready', async () => {
   console.log(`${bot.user.tag} Status is showed up !!`);
 });
 
-bot.login(process.env['token']);
+bot.login(process.env['TOKEN']);
