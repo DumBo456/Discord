@@ -26,11 +26,11 @@ const randomTexts = [
 ];
 
 const randomtext3 = [
-  '平和は微笑みから始まります。',
-  '大きな野望は偉大な人を育てる.',
-  '夢見ることができれば、それは実現できる。',
-  '私の人生は楽しくなかった。だから私は自分の人生を創造したの。',
-   'すべては練習のなかにある。'
+  'Lil Boo Gang Gang☄️',
+  'Lil Boo Got The No Bang Cap💥',
+  'Lil Boo Si Tinh🥀',
+  'Lil Boo Geng Geng🪐',
+   'Lil Boo Thien Tai⚡️'
 
 ];
 
@@ -38,7 +38,9 @@ const randomtext4 = [
   '❡',
   '☬',
   '✞',
-  '✡'
+  '۩',
+  '𐰒',
+  '♆'
 
 
 ];
