@@ -29,7 +29,6 @@ const randomtext3 = [
   'Lil Boo Gang Gang',
   'Lil Boo Got The No Bang Cap',
   'Lil Boo Si Tinh',
-  'Lil Boo Geng Geng',
    'Lil Boo Thien Tai'
 
 ];
