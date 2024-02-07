@@ -18,8 +18,8 @@ const pictureGede = [
 "https://cdn.discordapp.com/attachments/1148099836537753672/1202566543758594068/29A2748D-1580-4F46-9C23-5078E7CD0E69.gif?ex=65cdec5e&is=65bb775e&hm=39ff298ad23520f97778cc2e379278cc704673179bce5a3146b3d5aca28b4d5f&",
                          ];
 const smallpictureGede = [
-  "https://cdn.discordapp.com/attachments/1148099836537753672/1201545938611748955/C2A3D941-3584-469B-84C0-4395A291AAB8.gif?ex=65ca35db&is=65b7c0db&hm=803e593980963eb618e2a9689ae713f53ff2156256ea2355eefe39daf160d4fe&",
-  "https://cdn.discordapp.com/attachments/1148099836537753672/1202568608417316906/5A362F38-3153-455C-9E0A-91B010E6F2BA.gif?ex=65cdee4a&is=65bb794a&hm=38464f844921beddfe90ff46f3f64fd6cf017e20dfc8af5b977e92603d4b4eda&",
+  "https://cdn.discordapp.com/attachments/1158981666660941894/1204781018612113499/IMG_2429.png?ex=65d5fac2&is=65c385c2&hm=595cb82e0b0a1ae150d8db71407111f0375f173a46bc68b78ac6de164ac0ec20&",
+  "https://cdn.discordapp.com/attachments/1158981666660941894/1204781645706698794/IMG_2345.jpg?ex=65d5fb58&is=65c38658&hm=9c6326ff7e37a7ce91b6ba68fa4b03c0dc4dcb4dc6c9903dc4fabcefedb111ed&",
                     ];
 const nameButtonone = "";
 let linkButtonone = "";
