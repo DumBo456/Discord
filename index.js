@@ -22,7 +22,7 @@ const pictureGede = [
                          ];
 const smallpictureGede = [
   "https://cdn.discordapp.com/attachments/1148099836537753672/1206632266969649172/78901A24-C7E7-4DB8-AB22-9CC5A4727D83.gif?ex=65dcb6de&is=65ca41de&hm=cd0d40982b18aba1281c4bcb62aa0f4fc7bfe5ed82f7968debcbf70688b1e03b&",
-  "https://cdn.discordapp.com/attachments/1158981666660941894/1204781645706698794/IMG_2345.jpg?ex=65d5fb58&is=65c38658&hm=9c6326ff7e37a7ce91b6ba68fa4b03c0dc4dcb4dc6c9903dc4fabcefedb111ed&",
+  "https://cdn.discordapp.com/attachments/1148099836537753672/1206632705450708993/E663B58B-854B-4EB0-B6A4-077E4F4AA742.gif?ex=65dcb747&is=65ca4247&hm=2bff2636fa8ce88c301616cb1839ef3ba5ea95ad6d9aa269cdfd1a1b051c6685&",
                     ];
 const nameButtonone = "";
 let linkButtonone = "";
