@@ -36,20 +36,15 @@ const randomTexts = [
 ];
 
 const randomtext3 = [
-  'Lil Boo Gang Gang☄️',
-  'Lil Boo Got The No Bang Cap⚡️',
-  'Lil Boo Si Tinh🥀',
-   'Lil Boo Thien Tai💥'
+  'DumBo Gang Gang☄️',
+  'DumBo Got The No Bang Cap⚡️',
+  'DumBo Si Tinh🥀',
+   'DumBo Thien Tai💥'
 
 ];
 
 const randomtext4 = [
-  '❡',
-  '☬',
-  '✞',
-  '۩',
-  '𐰒',
-  '♆'
+  'IG:_youngboo_',
 
 
 ];
