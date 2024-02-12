@@ -27,7 +27,7 @@ const smallpictureGede = [
 const nameButtonone = "";
 let linkButtonone = "";
 
-const xxxx = ['★☆★☆★☆★','☆★☆★☆★☆'];
+const xxxx = ['?¿?¿?¿?','¿?¿?¿?¿'];
 
 const randomTexts = [
   'Mizukagami no Jutsu',
@@ -48,12 +48,12 @@ const randomTexts = [
 ];
 
 const randomtext3 = [
- 'Error ⚙',
+ 'Error',
 
 ];
 
 const randomtext4 = [
-  'IG:_youngboo_',
+  'FaceBook',
 
 
 ];
