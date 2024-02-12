@@ -48,10 +48,7 @@ const randomTexts = [
 ];
 
 const randomtext3 = [
-  'DumBo Gang Gang☄️',
-  'DumBo Got The No Bang Cap⚡️',
-  'DumBo Si Tinh🥀',
-   'DumBo Thien Tai💥'
+ 'Error ⚙',
 
 ];
 
