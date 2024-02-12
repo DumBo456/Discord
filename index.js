@@ -30,7 +30,19 @@ let linkButtonone = "";
 const xxxx = ['★☆★☆★☆★','☆★☆★☆★☆'];
 
 const randomTexts = [
-  'FaceBook',
+  'Mizukagami no Jutsu',
+  'Daikodan no Jutsu',
+  'Doton: Iwayado Kuzushi',
+  'Doton: Uiten Pen',
+  'Katon: Ryūen Hōka no Jutsu',
+  'Katon: Gōen no Jutsu',
+  'Susanoo: Chidori',
+  'Kamui Raikiri',
+  'Futon: Kiryū Ranbu',
+  'Futon: Rasengan',
+  'Amenominaka',
+  'Indra no Ya',
+  'Rasenshuriken'
 
 
 ];
