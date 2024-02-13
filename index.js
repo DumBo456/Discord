@@ -27,7 +27,7 @@ const smallpictureGede = [
 const nameButtonone = "";
 let linkButtonone = "";
 
-const xxxx = ['?¿?¿?¿?','¿?¿?¿?¿'];
+const xxxx = ['The 5th Great Ninja War🥷'];
 
 const randomTexts = [
   'Mizukagami no Jutsu',
