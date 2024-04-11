@@ -9,21 +9,10 @@ const textthree = "";
 const textfour = "";
 const type = "STREAMING";
 const pictureGede = [
-"https://cdn.discordapp.com/attachments/1148099836537753672/1206629250141134879/3C5F269B-BE16-4430-95EA-83678F7F5D34.gif?ex=65dcb40f&is=65ca3f0f&hm=cee561d459d5a9c6cce231724e790d37941a1e17da4fed45e29a85ca77dfdbcc&",
-"https://cdn.discordapp.com/attachments/1148099836537753672/1206629233422762055/D01BDB2D-EA0C-484C-AE42-8B22AF712AEE.gif?ex=65dcb40b&is=65ca3f0b&hm=a2a9c18e3e4547f9355c4b91e861cc9cc58e31b5a88f5460da7c9e05745ca836&",
-"https://cdn.discordapp.com/attachments/1148099836537753672/1206629216246964274/3ADC8A35-E625-4011-84F5-0C83CB64CB9D.gif?ex=65dcb407&is=65ca3f07&hm=7b6a926dc9aff6514316cff2414b017ac7fa813d05ccd87ab8f8a029825b6dba&",
-"https://cdn.discordapp.com/attachments/1148099836537753672/1206628570861142026/F773D7BF-D2F8-4A69-BE66-8DE9C91B0FA5.gif?ex=65dcb36d&is=65ca3e6d&hm=b56fa6abd9196d956c80e12e89e85b5cf867ebef7aeec4fad666abd743cc0145&",
-"https://cdn.discordapp.com/attachments/1148099836537753672/1206628546781642832/BA5825B3-1621-49CE-933E-E0AD2CA7232D.gif?ex=65dcb367&is=65ca3e67&hm=884cf767fd312b95fadd7a13dc7cec2b81d52359d9f7ddc33ea64a8cd2192ff8&",
-"https://cdn.discordapp.com/attachments/1148099836537753672/1206628530633580584/CDCA3A7D-9FEA-45AD-8082-A196519A8D42.gif?ex=65dcb363&is=65ca3e63&hm=808cf880aeb10ef0d9e7c4d2cb412124399a80e23772d413a2dd5c9e570dc181&" ,
-"https://cdn.discordapp.com/attachments/1148099836537753672/1206628514657476648/215233D4-05C4-406E-A305-D7A544BF576F.gif?ex=65dcb35f&is=65ca3e5f&hm=242d322dc12a8666bd4ae3fe1e0d1228d754c67b57cd866c34550371736fefb9&",
-"https://cdn.discordapp.com/attachments/1148099836537753672/1206628495657017364/618DF972-3020-424C-B613-C592AC450FFF.gif?ex=65dcb35b&is=65ca3e5b&hm=63eee0b0a213b70a41452d2324b94ac112352b0fe64c6448f57a41884b6c936e&",
-"https://cdn.discordapp.com/attachments/1148099836537753672/1206628472819286016/D3E22FBA-291D-441F-ACA6-9883F2A57001.gif?ex=65dcb355&is=65ca3e55&hm=8438414be036b77d324c09f5d40fd1aa9948bd3694f3d0228651ebc9131992b0&",
-"https://cdn.discordapp.com/attachments/1148099836537753672/1206632008487538718/F78A6BED-B945-457B-9FBA-D5ABDF333C68.gif?ex=65dcb6a0&is=65ca41a0&hm=16ddb2d0eece420837347776985395373de61709c010ba8c38536eeed981907f&",
+"https://cdn.discordapp.com/attachments/1158981666660941894/1228044732207337532/5E3C8445-9961-4BEC-911B-04BBE987974F.gif?ex=662a9cc8&is=661827c8&hm=ca07d64790d327ae856a2b76c0417ca0e2529aa24ea0f1de24cd8a5a0fc0e1a5&",
                          ];
 const smallpictureGede = [
-  "https://cdn.discordapp.com/attachments/1148099836537753672/1206632266969649172/78901A24-C7E7-4DB8-AB22-9CC5A4727D83.gif?ex=65dcb6de&is=65ca41de&hm=cd0d40982b18aba1281c4bcb62aa0f4fc7bfe5ed82f7968debcbf70688b1e03b&",
-  "https://cdn.discordapp.com/attachments/1206698651322159134/1206698816217288724/368f48260e17412b038f2bbadb2bf1b9.gif?ex=65dcf4d9&is=65ca7fd9&hm=ce9fc0835a036ea38ca022556aa75c8758ddb0cefe0fc667e51a313d8f7cccf3&",
-                    ];
+  "https://cdn.discordapp.com/attachments/1158981666660941894/1217888428876632064/5796D8E6-6686-4969-9199-9EE41D9D082C.gif?ex=662a93fc&is=66181efc&hm=0daa56b8b51d52b630383c22675fd0a39f416979888c528ce5a7430ed51fb70f&",
 const nameButtonone = "";
 let linkButtonone = "";
 
@@ -48,7 +37,7 @@ const randomTexts = [
 ];
 
 const randomtext3 = [
- '𝙁𝙚𝙚𝙡 𝙩𝙝𝙚 𝙥𝙖𝙞𝙣, 𝙧𝙚𝙛𝙡𝙚𝙘𝙩 𝙤𝙣 𝙩𝙝𝙚 𝙥𝙖𝙞𝙣.',
+ '',
 
 ];
 
