@@ -10,11 +10,11 @@ const textfour = "";
 const type = "STREAMING";
 const pictureGede = [
 "https://cdn.discordapp.com/attachments/1158981666660941894/1228044732207337532/5E3C8445-9961-4BEC-911B-04BBE987974F.gif?ex=662a9cc8&is=661827c8&hm=ca07d64790d327ae856a2b76c0417ca0e2529aa24ea0f1de24cd8a5a0fc0e1a5&",
-                         ];
+                   ];
 const smallpictureGede = [
   "https://cdn.discordapp.com/attachments/1158981666660941894/1217888428876632064/5796D8E6-6686-4969-9199-9EE41D9D082C.gif?ex=662a93fc&is=66181efc&hm=0daa56b8b51d52b630383c22675fd0a39f416979888c528ce5a7430ed51fb70f&",
-const nameButtonone = "";
-let linkButtonone = "";
+const nameButtonone = "H";
+let linkButtonone = "Z";
 
 const xxxx = ['The 5th Great Ninja War🥷'];
 
